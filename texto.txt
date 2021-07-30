@@ -1,3 +1,7 @@
 texto1 no segundo commit
 texto2  terceiro commit ficou na branche feature/commit3 
 texto3 estou na develop
+
+
+
+fgfgfgfgfgfgfgfgfgfgfgfgf
