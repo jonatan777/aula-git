@@ -2,4 +2,8 @@ texto1 no segundo commit
 texto2  terceiro commit ficou na branche feature/commit3 
 texto3 estou na develop
 texto4 estou em uma feature
+<<<<<<< HEAD
 texto5 eu também
+=======
+texto6 e eu em outra feature
+>>>>>>> feature/commit6
